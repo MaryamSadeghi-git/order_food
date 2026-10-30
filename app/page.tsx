@@ -18,7 +18,7 @@ export default function Home() {
             <span className="text-emerald-400">یک انتخاب</span> فاصله دارد
           </h1>
           <p className="text-gray-400 text-sm md:text-base leading-relaxed">
-            با لوکس فود، غذای سالم و باکیفیت را در سریع‌ترین و آسان‌ترین زمان به عنوان غذای شرکتی میل کنید.
+               غذای سالم و باکیفیت را در سریع‌ترین و آسان‌ترین زمان میل کنید.
           </p>
           <div className="flex flex-wrap gap-4">
             <button className="bg-emerald-500 hover:bg-emerald-400 text-black font-semibold px-6 py-3 rounded-xl transition shadow-lg shadow-emerald-500/20">
@@ -43,7 +43,7 @@ export default function Home() {
             {/* محتوا و متن روی تصویر */}
             <div className="relative z-10">
               <p className="text-sm md:text-base text-emerald-300 font-medium">
-                غذای خوب، تیم‌های قوی‌تری می‌سازد
+                غذای خوب، تیم‌های پرانرژی می‌سازد
               </p>
             </div>
           </div>
@@ -67,7 +67,7 @@ export default function Home() {
           </div>
           <div className="p-4 rounded-xl hover:bg-[#121a16] transition border border-transparent hover:border-[#1c2e24]">
             <h3 className="font-bold text-base mb-1 text-white">سفارش آسان</h3>
-            <p className="text-xs text-gray-400">در چند کلیک</p>
+            <p className="text-xs text-gray-400">با چند کلیک</p>
           </div>
         </div>
       </section>
@@ -85,10 +85,10 @@ export default function Home() {
           </div>
         </div>
         <div className="space-y-6">
-          <span className="text-xs text-emerald-400 font-semibold uppercase tracking-wider">چرا لوکس فود؟</span>
+          <span className="text-xs text-emerald-400 font-semibold uppercase tracking-wider">چرا فود؟</span>
           <h2 className="text-2xl md:text-4xl font-extrabold text-white">تجربه‌ای متفاوت از سفارش غذای شرکتی</h2>
           <p className="text-gray-400 text-sm md:text-base leading-relaxed">
-            ما در لوکس فود، بهتر می‌دانیم که وجوه غذایی خوب، مورالِ انرژی کارکنان و سلامت آن‌ها را بالاتر طلب کند. به همین دلیل بهترین سرآشپزها را برای شما انتخاب کرده‌ایم.
+            ما در فود، بهتر می‌دانیم که وجوه غذایی خوب، مورالِ انرژی کارکنان و سلامت آن‌ها را بالاتر طلب کند. به همین دلیل بهترین سرآشپزها را برای شما انتخاب کرده‌ایم.
           </p>
           <button className="border border-[#1c2e24] bg-[#121a16] hover:border-emerald-500 px-6 py-3 rounded-xl text-sm transition">
             بیشتر بدانید
@@ -111,7 +111,7 @@ export default function Home() {
         <div className="lg:col-span-7 bg-[#121a16] border border-[#1c2e24] p-8 md:p-10 rounded-3xl shadow-xl">
           <div className="mb-6">
             <h2 className="text-xl md:text-2xl font-bold text-white mb-2">فرم ثبت شرکت</h2>
-            <p className="text-xs text-gray-400">برای دریافت تخفیف‌ها و شرایط خاص، اطلاعات شرکتی خود را وارد کنید.</p>
+            <p className="text-xs text-gray-400">برای دریافت تخفیف‌ها و شرایط خاص، اطلاعات شرکت خود را وارد کنید.</p>
           </div>
           
           <form className="space-y-4">
@@ -133,7 +133,7 @@ export default function Home() {
               </select>
             </div>
             <button type="submit" className="w-full bg-emerald-500 hover:bg-emerald-400 text-black font-bold py-3.5 rounded-xl transition duration-200 mt-4 shadow-lg shadow-emerald-500/20">
-              ثبت درخواست همکاری
+              ثبت درخواست
             </button>
             <p className="text-[11px] text-center text-gray-500 mt-3">🔒 اطلاعات شما کاملاً محفوظ خواهد ماند</p>
           </form>
@@ -176,13 +176,11 @@ export default function Home() {
       {/* ================= بخش سازمان‌های همکار ================= */}
       <section className="py-16 border-t border-[#1c2e24] text-center">
         <h3 className="text-lg md:text-xl font-bold text-white mb-2">تجربه‌ای مطمئن برای سازمان‌های پیشرو</h3>
-        <p className="text-xs text-gray-400 mb-10">بیش از ۵۵۰ شرکت معتبر از خدمات لوکس فود برای تأمین غذای کارکنان خود استفاده می‌کنند.</p>
+        <p className="text-xs text-gray-400 mb-10">     برای تأمین غذای کارکنان خود ما را انتخاب کنید.</p>
         
         <div className="max-w-5xl mx-auto px-6 flex flex-wrap justify-center items-center gap-8 md:gap-16 opacity-70">
           <span className="text-sm font-semibold tracking-widest text-gray-300">دیجی‌کالا</span>
           <span className="text-sm font-semibold tracking-widest text-gray-300">اسنپ</span>
-          <span className="text-sm font-semibold tracking-widest text-gray-300">بانک ملت</span>
-          <span className="text-sm font-semibold tracking-widest text-gray-300">پارس آنلاین</span>
           <span className="text-sm font-semibold tracking-widest text-gray-300">تپسی</span>
         </div>
       </section>

@@ -9,7 +9,7 @@ export default function Header() {
     return (
       <header className="flex items-center justify-between px-6 py-4 border-b border-[#1c2e24] bg-[#0b0f0d]/90 backdrop-blur sticky top-0 z-50">
         <div className="flex items-center gap-8">
-          <span className="text-xl font-bold tracking-wider text-emerald-400">لوکس فود</span>
+          <span className="text-xl font-bold tracking-wider text-emerald-400">فود</span>
           <nav className="flex items-center gap-6 text-sm">
             <Link 
               href="/" 

@@ -113,7 +113,7 @@ export default function BlogPage() {
             <span className="text-emerald-400">از یک ایده‌پردازی تا یک تجربه متفاوت</span>
           </h2>
           <p className="text-gray-400 text-sm md:text-base leading-relaxed">
-            ما در لوکس فود با هدف ارائه غذای سالم، باکیفیت و متنوع برای آرامش خاطر در محیط‌های اداری، تلاش می‌کنیم. استانداردهای شرکتی، آماده‌سازی غذا با بهترین مواد اولیه و تعهد به زمان، از ارزش‌های بنیادین ماست.
+            ما در فود با هدف ارائه غذای سالم، باکیفیت و متنوع برای آرامش خاطر در محیط‌های اداری، تلاش می‌کنیم. استانداردهای شرکتی، آماده‌سازی غذا با بهترین مواد اولیه و تعهد به زمان، از ارزش‌های بنیادین ماست.
           </p>
         </div>
         
@@ -145,7 +145,7 @@ export default function BlogPage() {
           <div className="p-6 rounded-2xl bg-[#121a16] border border-[#1c2e24] hover:border-emerald-500/50 transition">
             <span className="text-3xl">🌱</span>
             <h4 className="font-bold text-white text-base mt-3 mb-1">سلامت</h4>
-            <p className="text-xs text-gray-400">غذای زندگی بهتر</p>
+            <p className="text-xs text-gray-400">غذای بهتر</p>
           </div>
           <div className="p-6 rounded-2xl bg-[#121a16] border border-[#1c2e24] hover:border-emerald-500/50 transition">
             <span className="text-3xl">❤️</span>
@@ -155,7 +155,7 @@ export default function BlogPage() {
           <div className="p-6 rounded-2xl bg-[#121a16] border border-[#1c2e24] hover:border-emerald-500/50 transition">
             <span className="text-3xl">⭐</span>
             <h4 className="font-bold text-white text-base mt-3 mb-1">کیفیت</h4>
-            <p className="text-xs text-gray-400">از بهترین مواد شرکتی</p>
+            <p className="text-xs text-gray-400">از بهترین مواد </p>
           </div>
         </div>
       </section>
@@ -227,15 +227,15 @@ export default function BlogPage() {
         <div className="bg-gradient-to-r from-[#121a16] to-[#0e1411] border border-[#1c2e24] rounded-3xl p-8 md:p-12 flex flex-col md:flex-row items-center justify-between gap-8 shadow-2xl">
           <div className="flex items-center gap-6">
             <div className="w-16 h-16 rounded-2xl bg-[#0b0f0d] border border-[#1c2e24] flex items-center justify-center text-2xl shrink-0">
-              🥗
+              
             </div>
             <div className="space-y-1 text-center md:text-right">
-              <h3 className="text-xl md:text-2xl font-bold text-white">با لوکس فود، بهتر غذا نخوید، بهتر کار کنید</h3>
+              <h3 className="text-xl md:text-2xl font-bold text-white">با فود، آسانتر غذا بخرید، بهتر کار کنید</h3>
               <p className="text-xs text-gray-400">همین حالا اپلیکیشن را دانلود کنید و تفاوت را احساس کنید.</p>
             </div>
           </div>
           <button className="bg-emerald-500 hover:bg-emerald-400 text-black font-bold px-6 py-3.5 rounded-xl transition shadow-lg shadow-emerald-500/20 text-sm whitespace-nowrap">
-            📥 دانلود اپلیکیشن
+             دانلود اپلیکیشن
           </button>
         </div>
       </section>
